@@ -1,0 +1,56 @@
+server {
+
+#================================
+    server_name localhost;
+    
+    listen [::]:8085;
+    listen 8085;
+    
+    root /var/www/html;
+    index index2.html index.php info.php;
+    
+#=======Location block==================
+
+    location / {
+        try_files $uri $uri/ =404;
+    }
+
+    location /secondpage/ {
+        alias /var/www/html/secondpage/;
+        index index.html;
+        try_files $uri $uri/ =404;
+    }
+
+    location /music {
+        alias /var/www/html/music;
+        add_header Content-Disposition 'attachment; filename="carry_on_wayward_son.mp3"';
+    }
+
+#--------------=Regular expressoin-------------
+
+    location ~* ^/files/(.*\.png)$ {
+        root /var/www/html;
+	types {
+	  image/png png;
+	}
+    }
+
+#----------regex with rotate-------------------
+
+     location ~* ^/files/(.*\.jpg)$ {
+        root /var/www/html/;
+        image_filter rotate 180;
+        types {
+          image/jpeg jpg;
+        }
+    }
+
+#----------------------------------------------
+
+    location /files/ansible.yaml {
+        alias /var/www/html/files/ansible.yaml;
+        default_type text/plain;
+    }
+}
+
+#===================================================

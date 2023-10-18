@@ -1,10 +1,20 @@
-server {
+log_format upstreamlog '$server_name to: $upstream_addr [$request] '
+  'upstream_response_time $upstream_response_time '
+  'msec $msec request_time $request_time';
 
+
+upstream notes {
+ server localhost:8080;
+ server localhost:8085;
+}
+
+#=========================================================
+server {
     server_name susel.ddns.net;
-    
-    #main page
+    access_log /var/log/nginx/access.log upstreamlog;
+
     location / {
-        proxy_pass http://localhost:8080;
+        proxy_pass http://notes;
         proxy_set_header Host $host;
         proxy_set_header X-Real-IP $remote_addr;
         proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
@@ -12,27 +22,32 @@ server {
     }
 
     location /secondpage/ {
-        proxy_pass http://localhost:8080;
+        proxy_pass http://notes;
     }
 
     location /music {
-        proxy_pass http://localhost:8080;
+        proxy_pass http://notes;
     }
 
-    #PHP config
-
-    #location /info.php {
-    #    proxy_pass http://localhost:8080;
-    #}
-    
 
     location /info.php {
          proxy_pass http://localhost:8081;
+
     }
+
+#---------Regular expression-----------
+
+    location ~ ^/file/.*\.(jpg|png)$ {
+	proxy_pass http://notes;
+    }
+
+#-------------------------------------
     #YAML FILE
     location /files/ansible.yaml {
-        proxy_pass http://localhost:8080;
+        proxy_pass http://notes;
     }
+
+#==============SSL and redirect=========================================================================
 
     listen 443 ssl; # managed by Certbot
     ssl_certificate /etc/letsencrypt/live/susel.ddns.net/fullchain.pem; # managed by Certbot
@@ -42,6 +57,9 @@ server {
 
 }
 
+
+
+
 server {
     if ($host = susel.ddns.net) {
         return 301 https://$host$request_uri;
@@ -49,9 +67,10 @@ server {
 
 
     listen 80;
-
     server_name susel.ddns.net;
     return 404; # managed by Certbot
 
 
 }
+
+#===================================================================================
