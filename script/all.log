@@ -1,0 +1,841 @@
+
+127.0.0.1 - - [19/Oct/2023:19:33:40 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697744020.165 request_time 0.000
+
+127.0.0.1 - - [19/Oct/2023:19:33:45 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697744025.342 request_time 0.000
+
+127.0.0.1 - - [19/Oct/2023:19:33:50 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697744030.396 request_time 0.001
+
+127.0.0.1 - - [19/Oct/2023:19:33:55 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697744035.469 request_time 0.001
+
+127.0.0.1 - - [19/Oct/2023:19:34:00 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697744040.530 request_time 0.001
+127.0.0.1 - - [19/Oct/2023:19:34:03 +0000] "GET / HTTP/1.0" 200 876 "-" "-"
+susel.ddns.net to: 127.0.0.1:8085 [GET / HTTP/1.1] upstream_response_time 0.000 msec 1697744043.444 request_time 0.000
+127.0.0.1 - - [19/Oct/2023:19:34:03 +0000] "GET / HTTP/1.0" 200 877 "-" "Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)"
+susel.ddns.net to: 127.0.0.1:8080 [GET / HTTP/1.1] upstream_response_time 0.000 msec 1697744043.487 request_time 0.001
+susel.ddns.net to: - [PRI * HTTP/2.0] upstream_response_time - msec 1697744043.604 request_time 0.055
+127.0.0.1 - - [19/Oct/2023:19:34:03 +0000] "GET /favicon.ico HTTP/1.0" 404 162 "-" "Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)"
+susel.ddns.net to: 127.0.0.1:8085 [GET /favicon.ico HTTP/1.1] upstream_response_time 0.004 msec 1697744043.610 request_time 0.001
+
+127.0.0.1 - - [19/Oct/2023:19:34:05 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697744045.905 request_time 0.001
+
+127.0.0.1 - - [19/Oct/2023:19:34:11 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697744051.087 request_time 0.000
+
+127.0.0.1 - - [19/Oct/2023:19:34:16 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697744056.270 request_time 0.000
+
+127.0.0.1 - - [19/Oct/2023:19:34:21 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697744061.326 request_time 0.000
+
+127.0.0.1 - - [19/Oct/2023:19:34:26 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697744066.388 request_time 0.001
+
+127.0.0.1 - - [19/Oct/2023:19:34:31 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697744071.451 request_time 0.000
+
+127.0.0.1 - - [19/Oct/2023:19:34:36 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697744076.830 request_time 0.001
+
+127.0.0.1 - - [19/Oct/2023:19:34:42 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697744082.012 request_time 0.000
+
+127.0.0.1 - - [19/Oct/2023:19:34:47 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697744087.183 request_time 0.000
+
+127.0.0.1 - - [19/Oct/2023:19:34:52 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697744092.241 request_time 0.001
+
+127.0.0.1 - - [19/Oct/2023:19:34:57 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697744097.301 request_time 0.001
+
+127.0.0.1 - - [19/Oct/2023:19:35:02 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697744102.356 request_time 0.000
+
+127.0.0.1 - - [19/Oct/2023:19:35:07 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697744107.745 request_time 0.000
+
+127.0.0.1 - - [19/Oct/2023:19:35:12 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697744112.944 request_time 0.000
+
+127.0.0.1 - - [19/Oct/2023:19:35:18 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697744118.125 request_time 0.000
+
+127.0.0.1 - - [19/Oct/2023:19:35:23 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697744123.186 request_time 0.000
+
+127.0.0.1 - - [19/Oct/2023:19:35:28 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697744128.252 request_time 0.000
+
+127.0.0.1 - - [19/Oct/2023:19:35:33 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697744133.307 request_time 0.000
+
+127.0.0.1 - - [19/Oct/2023:19:35:38 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697744138.702 request_time 0.000
+
+127.0.0.1 - - [19/Oct/2023:19:35:43 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697744143.878 request_time 0.001
+
+127.0.0.1 - - [19/Oct/2023:19:35:49 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697744149.072 request_time 0.001
+
+127.0.0.1 - - [19/Oct/2023:19:35:54 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697744154.145 request_time 0.000
+
+127.0.0.1 - - [19/Oct/2023:19:35:59 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697744159.227 request_time 0.000
+
+127.0.0.1 - - [19/Oct/2023:19:36:04 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697744164.286 request_time 0.000
+
+127.0.0.1 - - [19/Oct/2023:19:36:09 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697744169.664 request_time 0.000
+
+127.0.0.1 - - [19/Oct/2023:19:36:14 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697744174.848 request_time 0.000
+
+127.0.0.1 - - [19/Oct/2023:19:36:20 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697744180.036 request_time 0.001
+
+127.0.0.1 - - [19/Oct/2023:19:36:25 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697744185.077 request_time 0.000
+
+127.0.0.1 - - [19/Oct/2023:19:36:30 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697744190.136 request_time 0.000
+127.0.0.1 - - [19/Oct/2023:19:36:30 +0000] "GET /error HTTP/1.0" 500 10 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8085 [GET /error HTTP/1.1] upstream_response_time 0.000 msec 1697744190.375 request_time 0.000
+
+
+127.0.0.1 - - [19/Oct/2023:19:36:40 +0000] "GET /error HTTP/1.0" 500 10 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8080 [GET /error HTTP/1.1] upstream_response_time 0.000 msec 1697744200.187 request_time 0.001
+127.0.0.1 - - [19/Oct/2023:19:36:43 +0000] "GET /error HTTP/1.0" 500 10 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8085 [GET /error HTTP/1.1] upstream_response_time 0.000 msec 1697744203.486 request_time 0.001
+
+
+127.0.0.1 - - [19/Oct/2023:19:36:52 +0000] "GET /error HTTP/1.0" 500 10 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8080 [GET /error HTTP/1.1] upstream_response_time 0.000 msec 1697744212.162 request_time 0.001
+127.0.0.1 - - [19/Oct/2023:19:36:54 +0000] "GET /error HTTP/1.0" 500 10 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8085 [GET /error HTTP/1.1] upstream_response_time 0.000 msec 1697744214.378 request_time 0.000
+
+127.0.0.1 - - [19/Oct/2023:19:36:56 +0000] "GET /error HTTP/1.0" 500 10 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8080 [GET /error HTTP/1.1] upstream_response_time 0.000 msec 1697744216.155 request_time 0.001
+127.0.0.1 - - [19/Oct/2023:19:36:57 +0000] "GET /error HTTP/1.0" 500 10 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8085 [GET /error HTTP/1.1] upstream_response_time 0.000 msec 1697744217.345 request_time 0.000
+
+
+
+
+
+
+
+
+
+
+
+127.0.0.1 - - [19/Oct/2023:19:37:55 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697744275.074 request_time 0.000
+
+
+
+
+
+45.79.181.223 - - [19/Oct/2023:19:38:19 +0000] "\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x039 @\xA5\xD0O\x94\xDC\xF4\x95\xF9S\xD3\xC29\xCFW\x82u\xBA\xAE\x03JW=\xFA\x0B\x8B\x9D\x0F\xDD\xDD\x00\x00 \xC0/\xC00\xC0+\xC0,\xCC\xA8\xCC\xA9\xC0\x13\xC0\x09\xC0\x14\xC0" 400 166 "-" "-"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+127.0.0.1 - - [20/Oct/2023:08:57:49 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792269.985 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:08:57:55 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792275.070 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:08:58:00 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792280.141 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:08:58:05 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792285.214 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:08:58:10 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792290.279 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:08:58:15 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792295.338 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:08:58:20 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792300.396 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:08:58:25 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792305.453 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:08:58:30 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792310.528 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:08:58:35 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792315.582 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:08:58:40 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792320.660 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:08:58:45 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792325.727 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:08:58:50 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792330.799 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:08:58:55 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792335.869 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:08:59:00 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792340.926 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:08:59:05 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792345.995 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:08:59:11 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792351.068 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:08:59:16 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792356.142 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:08:59:21 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792361.208 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:08:59:26 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792366.309 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:08:59:31 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792371.378 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:08:59:36 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792376.447 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:08:59:41 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792381.512 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:08:59:46 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792386.575 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:08:59:51 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792391.633 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:08:59:56 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792396.708 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:09:00:01 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792401.769 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:09:00:06 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792406.829 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:09:00:11 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792411.884 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:09:00:16 +0000] "GET /stat/cpu.html HTTP/1.0" 200 1 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792416.940 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:09:00:22 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792422.169 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:09:00:27 +0000] "GET /stat/cpu.html HTTP/1.0" 200 1 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792427.223 request_time 0.001
+127.0.0.1 - - [20/Oct/2023:09:00:32 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792432.302 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:00:37 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792437.368 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:00:42 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792442.435 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:09:00:47 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792447.506 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:00:52 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792452.581 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:00:57 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792457.655 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:01:02 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792462.727 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:01:07 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792467.804 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:01:12 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792472.893 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:01:17 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792477.963 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:01:23 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792483.035 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:01:28 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792488.094 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:01:33 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792493.157 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:01:38 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792498.237 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:01:43 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792503.319 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:01:48 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792508.395 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:01:53 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792513.456 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:09:01:58 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.004 msec 1697792518.530 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:02:03 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792523.602 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:02:08 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792528.684 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:02:13 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792533.741 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:02:18 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792538.808 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:02:23 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792543.872 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:02:28 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792548.954 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:02:34 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792554.014 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:02:39 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792559.075 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:02:44 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792564.141 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:09:02:49 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792569.209 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:02:54 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792574.269 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:02:59 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792579.351 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:03:04 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792584.418 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:09:03:09 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792589.574 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:03:14 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792594.797 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:09:03:19 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792599.876 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:03:24 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792604.956 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:09:03:30 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792610.032 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:09:03:35 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792615.107 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:09:03:40 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792620.180 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:03:45 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792625.250 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:09:03:50 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792630.329 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:09:03:55 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792635.399 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:09:04:00 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792640.465 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:04:05 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792645.526 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:04:10 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792650.595 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:09:04:15 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792655.668 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:09:04:20 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792660.749 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:04:25 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792665.827 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:04:30 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792670.924 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:04:36 +0000] "GET /stat/cpu.html HTTP/1.0" 200 1 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792676.027 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:09:04:41 +0000] "GET /stat/cpu.html HTTP/1.0" 200 1 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792681.109 request_time 0.000
+127.0.0.1 - - [20/Oct/2023:09:04:46 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792686.185 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:04:51 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792691.263 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:04:56 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792696.339 request_time 0.003
+
+127.0.0.1 - - [20/Oct/2023:09:05:01 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792701.432 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:05:06 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792706.509 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:09:05:11 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.004 msec 1697792711.586 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:05:16 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792716.655 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:05:21 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792721.916 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:05:26 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792727.002 request_time 0.003
+
+127.0.0.1 - - [20/Oct/2023:09:05:32 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792732.077 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:05:37 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792737.169 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:05:42 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792742.246 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:05:47 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792747.381 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:05:52 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792752.469 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:05:57 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792757.565 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:06:02 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.004 msec 1697792762.657 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:06:07 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792767.729 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:06:12 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792772.811 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:06:17 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.004 msec 1697792777.891 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:06:22 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792782.983 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:06:28 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792788.061 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:06:33 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792793.134 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:06:38 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792798.210 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:06:43 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792803.295 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:06:48 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792808.368 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:06:53 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792813.468 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:06:58 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792818.588 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:07:03 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792823.657 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:07:08 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792828.737 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:07:13 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792833.803 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:07:18 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792838.889 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:07:23 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792843.976 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:07:29 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792849.049 request_time 0.001
+
+198.235.24.42 - - [20/Oct/2023:09:07:33 +0000] "GET / HTTP/1.0" 200 877 "-" "Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com"
+127.0.0.1 - - [20/Oct/2023:09:07:34 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792854.119 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:07:39 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792859.192 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:07:44 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792864.264 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:09:07:49 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792869.335 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:07:54 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792874.412 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:07:59 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792879.487 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:09:08:04 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792884.562 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:09:08:09 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792889.642 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:08:14 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792894.720 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:09:08:19 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792899.796 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:09:08:24 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792904.869 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:09:08:29 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792909.951 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:08:35 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792915.033 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:08:40 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792920.116 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:09:08:45 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.004 msec 1697792925.186 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:08:50 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792930.265 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:08:55 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792935.344 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:09:00 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792940.425 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:09:05 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792945.502 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:09:10 +0000] "GET /stat/cpu.html HTTP/1.0" 200 1 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792950.583 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:09:09:15 +0000] "GET /stat/cpu.html HTTP/1.0" 200 1 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792955.656 request_time 0.001
+127.0.0.1 - - [20/Oct/2023:09:09:20 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792960.735 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:09:25 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792965.806 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:09:30 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792970.885 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:09:35 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792975.948 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:09:41 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792981.036 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:09:46 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792986.125 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:09:51 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792991.199 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:09:56 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697792996.267 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:10:01 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793001.337 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:10:06 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793006.418 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:10:11 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793011.502 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:10:16 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.004 msec 1697793016.577 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:10:21 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793021.861 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:10:26 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793026.938 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:10:32 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793032.029 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:10:37 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793037.109 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:10:42 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793042.197 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:10:47 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793047.272 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:10:52 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793052.375 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:10:57 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793057.633 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:09:11:02 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793062.899 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:11:08 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793068.003 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:11:13 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793073.092 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:11:18 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793078.189 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:11:23 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793083.263 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:11:28 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793088.354 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:11:33 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793093.425 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:11:38 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793098.600 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:11:43 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793103.678 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:11:48 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793108.748 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:11:53 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793113.816 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:11:58 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793118.886 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:12:03 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793123.953 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:12:09 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793129.041 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:12:14 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793134.129 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:12:19 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793139.195 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:12:24 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793144.294 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:12:29 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793149.365 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:12:34 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793154.452 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:12:39 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793159.525 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:12:44 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793164.597 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:12:49 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793169.703 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:12:54 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793174.794 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:12:59 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793179.905 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:09:13:04 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793184.985 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:13:10 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793190.058 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:13:15 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793195.128 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:13:20 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793200.204 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:13:25 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793205.276 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:13:30 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793210.352 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:13:35 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793215.436 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:09:13:40 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793220.511 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:13:45 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793225.589 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:13:50 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793230.667 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:13:55 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793235.747 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:14:00 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793240.825 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:14:05 +0000] "GET /stat/cpu.html HTTP/1.0" 200 1 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793245.904 request_time 0.000
+127.0.0.1 - - [20/Oct/2023:09:14:10 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793250.984 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:14:16 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793256.075 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:14:21 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793261.161 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:14:26 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793266.234 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:14:31 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793271.328 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:14:36 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793276.419 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:14:41 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793281.531 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:14:46 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793286.626 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:14:51 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793291.839 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:14:57 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793297.029 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:15:02 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.004 msec 1697793302.226 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:15:07 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793307.405 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:15:12 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793312.494 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:15:17 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793317.608 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:15:22 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793322.943 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:15:28 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793328.045 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:09:15:33 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793333.274 request_time 0.000
+
+127.0.0.1 - - [20/Oct/2023:09:15:38 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793338.413 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:15:43 +0000] "GET /stat/cpu.html HTTP/1.0" 200 81 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793343.542 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:15:48 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793348.645 request_time 0.002
+
+127.0.0.1 - - [20/Oct/2023:09:15:53 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8085 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793353.824 request_time 0.001
+
+127.0.0.1 - - [20/Oct/2023:09:15:58 +0000] "GET /stat/cpu.html HTTP/1.0" 200 82 "https://susel.ddns.net/stat/cpu.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+susel.ddns.net to: 127.0.0.1:8080 [GET /stat/cpu.html HTTP/1.1] upstream_response_time 0.000 msec 1697793358.937 request_time 0.002
+

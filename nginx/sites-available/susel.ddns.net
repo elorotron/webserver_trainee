@@ -43,14 +43,33 @@ server {
         types {
           image/jpeg jpg;
         }
-    }
+     }
 
 #----------------------------------------------
 
-    location /files/ansible.yaml {
+     location /files/ansible.yaml {
         alias /var/www/html/files/ansible.yaml;
         default_type text/plain;
-    }
-}
+     }
 
+
+#-----------------cpu stat--------------------
+
+
+    location /stat {
+        alias /var/www/html/stat/;
+        index cpu.html;
+        try_files $uri $uri/ =404;
+	add_header Refresh "5";
+    }
+
+#----------errors------------------------------
+
+    location /error {
+          return 500 "Error test";
+        }
+
+
+
+}
 #===================================================

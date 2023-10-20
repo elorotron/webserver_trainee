@@ -47,6 +47,20 @@ server {
         proxy_pass http://notes;
     }
 
+#----------------CPU usage-------------
+
+    location /stat {
+        proxy_pass http://notes;
+	#add_header Refresh "5";
+    }
+
+#-----------Errors-----------------
+
+    location /error {
+	proxy_pass http://notes;
+	
+    }
+
 #==============SSL and redirect=========================================================================
 
     listen 443 ssl; # managed by Certbot
